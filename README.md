@@ -7,7 +7,7 @@ Welcome to the **Quiz Application** – a simple, console-based Java program bui
 ## 📸 Preview
 
 ### 🖼️ Main Menu
-![Main Menu](images/main_menu.png)
+![Main Menu](image-1.png)
 
 ---
 
@@ -33,9 +33,20 @@ Welcome to the **Quiz Application** – a simple, console-based Java program bui
 ---
 
 ### 🖼️ Sample Quiz Screen
-![Quiz Screen](images/quiz_screen.png)
+![Quiz Screen](image-2.png)
 
 ---
+
+# Question's screen
+![Question's screen](image-3.png)
+
+
+---
+
+
+
+# Score's screen
+![score's screen](image-4.png)
 
 ## 🛠️ Technologies Used
 
@@ -48,8 +59,26 @@ Welcome to the **Quiz Application** – a simple, console-based Java program bui
 
 > 📌 Make sure you have Java installed and added to your system's PATH.
 
-### Step 1: Clone the Repository
 
-```bash
-git clone https://github.com/your-username/Quiz-Application.git
-cd Quiz-Application
+# first command
+
+> javac src/quiz/application/*.java
+
+
+#second command
+
+>java -cp src quiz.application.Login
+
+
+# 📜 License
+MIT License – feel free to use, modify, and distribute for educational or personal use.
+
+
+# ❤️ Support
+If you found this useful or cool:
+
+🌟 Star this repo
+
+🍴 Fork it and add your own questions/features
+
+🗣️ Share with friends and let the quiz wars begin!
