@@ -65,7 +65,7 @@ Welcome to the **Quiz Application** – a simple, console-based Java program bui
 > javac src/quiz/application/*.java
 
 
-#second command
+# second command
 
 >java -cp src quiz.application.Login
 
